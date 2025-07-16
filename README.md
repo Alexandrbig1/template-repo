@@ -2,14 +2,14 @@
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Alexandrbig1/template-repo?style=for-the-badge)](https://github.com/Alexandrbig1/template-repo/commits/main)
-[![License: MIT](https://img.shields.io/github/license/Alexandrbig1/template-repo?style=for-the-badge)](https://github.com/Alexandrbig1/template-repo/blob/main/LICENSE)
-[![Open Issues](https://img.shields.io/github/issues/Alexandrbig1/template-repo?style=for-the-badge)](https://github.com/Alexandrbig1/template-repo/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Alexandrbig1/template-repo?style=for-the-badge)](https://github.com/Alexandrbig1/template-repo/pulls)
-[![Contributors](https://img.shields.io/github/contributors/Alexandrbig1/template-repo?style=for-the-badge)](https://github.com/Alexandrbig1/template-repo/graphs/contributors)
-[![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge&logo=prettier)](https://prettier.io/)
-[![Bash](https://img.shields.io/badge/bash-scripting-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
-[![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker&style=for-the-badge)](Dockerfile)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Alexandrbig1/template-repo)](https://github.com/Alexandrbig1/template-repo/commits/main)
+[![License: MIT](https://img.shields.io/github/license/Alexandrbig1/template-repo)](https://github.com/Alexandrbig1/template-repo/blob/main/LICENSE)
+[![Open Issues](https://img.shields.io/github/issues/Alexandrbig1/template-repo)](https://github.com/Alexandrbig1/template-repo/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Alexandrbig1/template-repo)](https://github.com/Alexandrbig1/template-repo/pulls)
+[![Contributors](https://img.shields.io/github/contributors/Alexandrbig1/template-repo)](https://github.com/Alexandrbig1/template-repo/graphs/contributors)
+[![Prettier](https://img.shields.io/badge/prettier-2.8.8-ff69b4.svg?style=for-the-badge&logo=prettier)](https://prettier.io/)
+[![Bash](https://img.shields.io/badge/bash-5.2-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
+[![Docker](https://img.shields.io/badge/Docker-24.0-blue?logo=docker&style=for-the-badge)](Dockerfile)
 [![CI](https://github.com/Alexandrbig1/template-repo/actions/workflows/ci.yml/badge.svg?style=for-the-badge)](https://github.com/Alexandrbig1/template-repo/actions/workflows/ci.yml)
 
 ---
@@ -151,4 +151,3 @@ If you find this template helpful, consider supporting me:
 <img src="https://img.shields.io/badge/upwork-%230077B5.svg?&style=for-the-badge&logo=upwork&logoColor=white&color=%23167B02" alt="Upwork" style="margin-bottom: 5px;" />
 </a>
 </div>
-# template-repo
