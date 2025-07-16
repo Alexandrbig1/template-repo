@@ -1,0 +1,101 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# User-specific files
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Environment variables files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Coverage directory
+coverage/
+
+# Built/compiled files
+lib/
+dist/
+build/
+
+# Logs
+log/
+logs/
+*.log
+*.log.*
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn integrity file
+.yarn-integrity
+
+# dotenv environment variables files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Node.js process files
+npm-debug.log
+yarn-error.log
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider and Visual Studio files
+.idea/
+*.sln.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.user
+*.userosscache
+*.sw?
+*.sublime-*
+
+# Local Netlify folder
+.netlify
+.netlify/state.json
+
+# Cache files for faster builds
+.cache/
+.next/
+out/
+.parcel-cache/
+
+# Miscellaneous temp files and swap files for Vim
+*.swp
+
+# Storybook files
+storybook-static/
+
+# Jest snapshot files
+*.snap
+
+# Stylelint cache
+.stylelintcache
