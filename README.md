@@ -66,31 +66,34 @@ See [docs/setup.md](docs/setup.md) for more details.
 
 ## Project Structure
 
-```
-.github/
-  ISSUE_TEMPLATE/
-    bug_report.md
-    feature_request.md
-  FUNDING.yml
-  PULL_REQUEST_TEMPLATE.md
-  workflows/
-    ci.yml
-docs/
-  images/
-  architecture.md
-  faq.md
-  setup.md
-  usage.md
-.dockerignore
-.gitignore
-.prettierrc
-CHANGELOG.md
-CODE_OF_CONDUCT.md
-CONTRIBUTING.md
-Dockerfile
-LICENSE
-README.md
-setup.sh
+```bash
+template-repo/                     # GitHub template-repo
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   ├── workflow/
+│   │   └── ci.yml
+│   ├── FUNDING.yml
+│   └── PULL_REQUEST_TEMPLATE.md
+│
+├── docs/
+│   ├── images/
+│   ├── architecture.md
+│   ├── faq.md
+│   ├── setup.md
+│   └── usage.md
+│
+├── .dockerignore
+├── .gitignore
+├── .prettierrc
+├── CHANGELOG.md
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── Dockerfile
+├── LICENSE
+├── README.md
+├── setup.sh
 ```
 
 ---
