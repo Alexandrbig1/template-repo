@@ -1,5 +1,6 @@
 ---
 name: Feature Request
+about: Suggest a new idea or improvement for this template
 description: Suggest an idea for this template
 labels: enhancement
 ---

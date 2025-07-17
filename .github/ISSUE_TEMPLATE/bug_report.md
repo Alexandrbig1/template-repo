@@ -1,5 +1,6 @@
 ---
 name: Bug Report
+about: Report a problem or unexpected behavior
 description: Report a bug to help improve the template
 labels: bug
 ---
