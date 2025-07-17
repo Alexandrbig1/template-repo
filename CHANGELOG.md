@@ -9,3 +9,7 @@ All notable changes to this project will be documented in this file.
 - Added Dockerfile and .dockerignore for containerization support.
 - Improved README.md with Docker badges and updated project structure.
 - Enhanced documentation in usage.md for Docker workflow and customization tips.
+
+## [2025-07-17] - Issue templates improved
+
+- Added 'about' field to bug report and feature request issue templates to fix GitHub template errors.
